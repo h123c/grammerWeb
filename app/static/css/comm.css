@@ -1,0 +1,47 @@
+@charset"UTF-8";
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Microsoft YaHei";
+}
+#hides{display: none;}
+a {
+	text-decoration: none;
+}
+li {
+	list-style-type: none;
+}
+
+html,body{margin:0px;padding:0px;height:100%; line-height:100%;width:100%;border:none;}
+
+nav{
+	position: fixed;
+	margin-top: 0px;
+	width: 100%;
+}
+.clr{clear:both;}
+.floatL{float:left;}
+.floatR{float:right;}
+.alignL{text-align:left;}
+.alignR{text-align:right;}
+.alignC{clear:both;text-align:center;}
+.lastChild{margin-right:0%!important;float:right!important;}
+.f_cA{ color:#1fbba6;}
+.f_cB{ color:#e32727;}
+.f_cC{ color:#3085be;}
+.f_cD{ color:#4a91b9;}
+
+.center{
+	margin: 0 auto;
+}
+td{
+	text-align: center;
+}
+.font_s14{ font-size:14px;}
+.font_s16{ font-size:16px;}
+.font_s18{ font-size:18px;}
+.font_s20{ font-size:20px;}
+.font_s22{ font-size:22px;}
+.font_s24{ font-size:24px;}
+.font_s26{ font-size:26px;}
+.font_s28{ font-size:28px;}
